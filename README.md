@@ -67,5 +67,11 @@ This project is open-source and available for educational purposes.
 
 ---
 
-💡 **Need Help?** Contact [Your Email or GitHub Link] for support!
+💡 **Need Help?** 
+
+
+    Created on : 1 Mar 2025, 5:22:06 pm
+    Author     : Areen Vishwakarma 
+    Email      : areenwish.mum@gmail.com
+    Contact    : 8452817040
 
